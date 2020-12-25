@@ -48,7 +48,9 @@
 
 - 下载完成之后（一定保存在英文目录下面，最好没有空格），目录如下：
 
-  ![](http://qlvju1a7q.hn-bkt.clouddn.com/jdk/20201225_jdk01.png)
+  ![jdk目录](http://qlvju1a7q.hn-bkt.clouddn.com/jdk/20201225_jdk01.png)
+  
+  
 
 ## 资料部分截图
 
