@@ -128,11 +128,17 @@
   - 网盘链接：https://pan.baidu.com/s/1HmwtDoOwsFpt47iYJgdOlw   
   
     提取码：k6ih 
+  
 - PicGo获取
   - github地址:https://github.com/Molunerfinn/PicGo/releases/tag/v2.2.2
   
   - 网盘链接：https://pan.baidu.com/s/1xm3psOzI3vewdYWa3duSAg   
   
     提取码：yzh6 
+  
 - 如有网盘失效公众号【CodeGuide】回复`typora`
+
+  ------
+
+  ![image-20210112145021047](http://blog.sunyj.online/typora/image-20210112145021047.png)
 
