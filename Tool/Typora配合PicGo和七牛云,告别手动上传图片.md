@@ -1,6 +1,6 @@
 # Typora配合PicGo和七牛云实现图床
 
->如需资料至文章底部获取。
+>如需资料至文章底部获取。或者公众号【CodeGuide】回复【typora】获取。
 
 ## 0.为什么需要图床？
 
@@ -116,6 +116,8 @@
 
   检查PicGo的【设定访问网址】和【确认存储区域】
 
+  确定PicGo-Server的端口是：36677
+  
   ![image-20210111230512892](http://blog.sunyj.online/typora/image-20210111230512892.png)
 
 ## 5.资料
